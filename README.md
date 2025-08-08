@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm **DARSHAN B M**, an aspiring data scientist currently building my skills in **data analysis**, **data cleaning**, and **feature engineering**.  
+I'm **DARSHAN B M**, a passionate student and an aspiring data scientist having strong grip on **data analysis**,**data visualization**,**data cleaning**,**feature engineering**,**machine learning** and much more.  
 I'm passionate about working with data to uncover insights and tell compelling data stories.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darshanbm26&color=blue)
@@ -17,21 +17,24 @@ I'm passionate about working with data to uncover insights and tell compelling d
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Data Skills:**  
-Data Gathering · Data Cleaning · Feature Engineering · Exploratory Data Analysis · Data Visualization
+Data Gathering · Data Cleaning · Feature Engineering · Exploratory Data Analysis · Data Visualization · Machine Learning
 
 ---
 
 ## � Tools & Technologies:
 
-**Data Processing:**  
+**Data Analysis:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Data Visualization:**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C7DC5?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0288D1?style=for-the-badge&logo=power-bi&logoColor=white)
 
 **IDEs & Tools:**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
